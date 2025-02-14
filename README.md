@@ -87,6 +87,7 @@
 </div>
 
 
-### Snake Animation
-	<img src="https://raw.githubusercontent.com/tilakoli/tilakoli/output/snake.svg" alt="Snake animation" />
+### Snake Animation:
+
+<img src="https://raw.githubusercontent.com/tilakoli/tilakoli/output/snake.svg" alt="Snake animation" />
 
